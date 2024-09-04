@@ -27,3 +27,4 @@ dist-ssr
 # /backend/staticfiles/
 *.env
 package/
+.package/
